@@ -1,6 +1,7 @@
 # Memory-Game
 
 A memory game I built with some features.
+<br></br>
 An example of the game board
 <img width="1074" alt="image" src="https://github.com/chenAmrani/Memory-Game/assets/109721571/1d2c047c-2761-4272-84e0-e19498799001">
 
